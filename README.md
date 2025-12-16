@@ -72,6 +72,8 @@ This trade-off is documented as part of the assignment’s allowance for partial
 - Node.js (v18+ recommended)
 - npm or yarn
 
+Demo Video ( https://youtu.be/HOY8BZfppqM)
+
 ---
 
 ### Backend Setup
