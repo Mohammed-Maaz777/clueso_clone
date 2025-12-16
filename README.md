@@ -101,12 +101,13 @@ Complete User Flow
 6. See AI-generated insights
 7. Logout
 
-
+---
 Demo Video ( https://youtu.be/HOY8BZfppqM)
 A complete demo video showcasing:
 End-to-end user flow
 Core features
 Technical explanation
+---
 
 Assumptions & Design Decisions
 Feedback and user data stored in memory for simplicity
